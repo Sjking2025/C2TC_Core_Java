@@ -1,0 +1,10 @@
+*.class
+*.exe
+*.dll
+.vscode/
+*.tmp
+*.cache
+build/
+dist/
+bin/
+*.log
